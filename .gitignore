@@ -27,3 +27,4 @@ ProjectEuler/.vs/ProjectEuler/v17/.suo
 *.log
 *.ilk
 *.recipe
+*.ipch
