@@ -16,3 +16,14 @@ ProjectEuler/ProjectEuler/ProjectEuler.vcxproj.filters
 ProjectEuler/ProjectEuler/ProjectEuler.vcxproj.user
 ProjectEuler/ProjectEuler.sln
 *.vsidx
+*.json
+ProjectEuler/.vs/ProjectEuler/v17/.suo
+*.lastbuildstate
+*.obj
+*.idb
+*.pdb
+*.exe
+*.tlog
+*.log
+*.ilk
+*.recipe
