@@ -1,7 +1,8 @@
 #include <stdio.h>
+#include "Q2.h"
 
 // Find the sum of the even Fibanacci numbers under 4 million.
-int q2() {
+int runQ2() {
 	int sum = 0;
 	int i1 = 3;
 	int i2 = 2;
