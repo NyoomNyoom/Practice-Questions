@@ -2,7 +2,7 @@
 #define Q2_H  
 
 struct Q2 {
-	int someField;  // Just a placeholder to make Visual studio shut up
+	int placeholder;  // Just a placeholder to make Visual studio shut up
 };
 
 #endif
